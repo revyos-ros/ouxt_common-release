@@ -1,3 +1,28 @@
+## ouxt_common (jazzy) - 0.0.8-6
+
+The packages in the `ouxt_common` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ouxt_common --override-release-repository-push-url git@github.com:revyos-ros/ouxt_common-release.git` on `Fri, 14 Jun 2024 00:38:57 -0000`
+
+These packages were released:
+- `ouxt_common`
+- `ouxt_lint_common`
+
+Version of package(s) in repository `ouxt_common`:
+
+- upstream repository: https://github.com/OUXT-Polaris/ouxt_common.git
+- release repository: https://github.com/revyos-ros/ouxt_common-release.git
+- rosdistro version: `0.0.8-6`
+- old version: `0.0.8-5`
+- new version: `0.0.8-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ouxt_common (rolling) - 0.0.8-1
 
 The packages in the `ouxt_common` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --ros-distro rolling ouxt_common` on `Sat, 04 Dec 2021 23:54:01 -0000`
